@@ -40,5 +40,11 @@ rect(0, 0, width(), height())
 
 newPage('A4')
 
+# Draw a smaller rectangle, with room for the margin on all sides
 margin = 50
-rect(margin, margin, width() - 2*margin, height() - 2*margin)
+
+x = margin
+y = margin
+w = width() - 2*margin
+h = height() - 2*margin
+rect(x, y, w, h)

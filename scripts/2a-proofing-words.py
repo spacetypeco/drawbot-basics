@@ -2,10 +2,10 @@
 # * Drawing text in a textbox with margin
 # * Drawing overflow in additional pages
 
-# the exported font we are using, OTF or TTF
-# this can be a path like /path/to/MyFont.otf
-# you can drag a font onto the text window to get the path
-# OR this can also be the exact name of an installed font
+# fontpath can be an OTF or TTF, and can be a path, 
+# like /path/to/Font.otf, or the name of an installed font.
+#
+# To get the full path of a font file, you can drag a font from the Finder.
 fontpath = 'Verdana'
 margin = 50
 
