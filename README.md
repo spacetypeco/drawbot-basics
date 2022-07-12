@@ -20,7 +20,7 @@ In addition to running as a standalone application, it can be integrated with Ro
 - [Making Proofs with Drawbot (and Robofont)](https://robofont.com/documentation/tutorials/making-proofs-with-drawbot/#making-proofs-with-drawbot)
 - [Editing Font Files (video)](https://www.youtube.com/watch?v=RGRFnXYGFqs) - Stephen Nixon
 
-### Example Sketches
+### Example Scripts
 
 - [Drawbot Type Proofs](https://github.com/djrrb/Drawbot-Type-Proofs/) by DJR
 - [Drawbot Loop Through Font Glyphs](https://github.com/arrowtype/drawbot--loop-through-font-glyphs) by Stephen Nixon
