@@ -2,7 +2,6 @@
 # * How python works (line-by-line execution, comments, indentation, python / drawbot syntax, variables, reading documentation, debugging)
 # * Preview page zoom (cmd+, cmd-)
 
-
 # 1 - shapes and colors
 newPage('A4')
 
@@ -37,7 +36,7 @@ newPage('A4')
 fill(random(), random(), random())
 rect(0, 0, width(), height())
 
-# 3 - variables
+# 3 - width/height variables
 
 newPage('A4')
 
