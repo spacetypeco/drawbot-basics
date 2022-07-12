@@ -4,7 +4,7 @@ This is a learn-by-example primer to Drawbot for designers. ✨
 
 ## What is Drawbot
 
-Drawbot is a Mac OSX application specializing in XYZ.
+Drawbot is a Mac OSX graphics application specializing in 2D, vector-based graphics that are ready for print.
 
 In addition to running as a standalone application, it can be integrated with Robofont. There is no support for Drawbot + Glyphs 3 at this time (July 2022.)
 
