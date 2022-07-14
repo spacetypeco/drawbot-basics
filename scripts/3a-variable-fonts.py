@@ -2,14 +2,14 @@
 #
 fontpath = '/Users/kyeah/Downloads/FitVariable-VF.ttf'
 
-newPage('A4')
+newPage('A4Landscape')
 
 fs = FormattedString(
   "ABCDEFGH", 
   font=fontpath, 
   fontSize=100, 
   align="center", 
-  fontVariations=dict(wdth = 500),
+  fontVariations=dict(wdth = 300),
 )
   
 textWidth, textHeight = textSize(fs)

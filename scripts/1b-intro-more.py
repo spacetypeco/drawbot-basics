@@ -1,6 +1,10 @@
-# This example showcases:
-# * How python works (line-by-line execution, comments, indentation, python / drawbot syntax, variables, reading documentation, debugging)
-# * Preview page zoom (cmd+, cmd-)
+# This example showcases additional drawbot functionality such as:
+#
+# * more shapes
+# * fill and stroke colors
+# * multiple pages
+# * more drawbot functions (random, width, height)
+# * calculating margins
 
 # 1 - shapes and colors
 newPage('A4')

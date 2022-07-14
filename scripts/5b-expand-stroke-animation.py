@@ -13,4 +13,4 @@ while page < 30:
     expandedPath = expandedPath.expandStroke(2)
     drawPath(expandedPath)
     
-saveImage("6b-stroke-animation.gif")
+saveImage("6b-stroke-animation.mp4")

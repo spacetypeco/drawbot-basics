@@ -9,6 +9,7 @@
 fontpath = 'Verdana'
 margin = 50
 
+# generated from https://www.adhesiontext.com/
 txt = "babe dace cede adead ebbed deeded dead cace cabaa bedead be be bebed baba deedeed deedeed abada decade be be deedeed abed be bedad be cab ebb ace be dab aced add bee acceded abed baba a cab aced bee cabda be decad be dada cadded baccae add a cecca acceded aced bee aced bacca deedeed dab abed deb cadded cad abed bebed acceded decede cadee decade be bed dad aced cabaa aced baba bacca add deeded be cab acceded acceded bee add deed bebed dab cace caeca deb abaca dad beaded be dace deedeed be cab added baaed decade be cabbed cadee dace abed bead be caeca be baaed bad ebb be deedeed babe deed a dec aced dab deedeed abede bade cace bed decd cadee bedad be deedeed cabbed dace abed babe cad decade be be a cadded baccae ceded dab dace deedeed decd acceded added be be cabaa bedead acceded dad cabda cace abede bead a beebee cace dabba a deedeed bebed baba dead bead dab caaba cabbed cab dabbed cab be be dec be bad be deed bead bedad beebee cadee decd acceded cace dec bee babe acceded bead dead bee dab deed decad be ace aced accede dada be abede be be bad cab deedeed ace deed adead accede deb deedeed bebed aced beebee"
 
 fs = FormattedString(txt, font=fontpath, fontSize=32)
