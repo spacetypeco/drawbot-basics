@@ -2,6 +2,14 @@
 
 This is a learn-by-example primer to Drawbot for designers. ✨
 
+## What you can learn
+
+* Programming basics (How do I read Python code? How do I look up documentation and understand errors?)
+* Drawbot basics (Primitive shapes and colors)
+* Textsetting (font attributes, alignment) and exporting PDFs
+* Using variable fonts
+* Exporting animations (mp4s and gifs)
+
 ## What is Drawbot
 
 Drawbot is a Mac OSX graphics application specializing in 2D, vector-based graphics that are ready for print.
